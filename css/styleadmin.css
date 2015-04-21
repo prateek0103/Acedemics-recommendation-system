@@ -1,0 +1,51 @@
+html {
+    overflow: hidden;
+}
+#topbarmid{
+    position: relative;
+    background-color: white;
+    
+    font-size: 30px;
+    text-align: center;
+    margin-top: 4%;
+    
+}
+#topbarleft{
+    position: relative;
+    background-color: white;
+    
+    font-size: 30px;
+    text-align: center;
+    margin-top: 4%;
+}
+#topbarright{
+    position: relative;
+    background-color: white;
+    
+    font-size: 30px;
+    text-align: center;
+    margin-top: 4%;
+}
+
+#navBar{
+margin-top: 1%;
+}
+#displaycards{
+    position: relative;
+    margin-top: 3%;
+}
+
+#newUserForm{
+    margin-top: 2%;
+}
+#topUpForm{
+    margin-top: 2%;
+}
+
+#refundForm{
+    margin-top: 2%;
+}
+
+#existingUserForm{
+    margin-top: 2%;
+}

@@ -1,0 +1,10 @@
+html {
+    overflow: hidden;
+}
+.card {
+    background-color: white;
+}
+
+#loginBtn{
+margin-left: 20%;
+}
